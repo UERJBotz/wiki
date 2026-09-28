@@ -1,12 +1,9 @@
-# git-wiki-skeleton
+# UERJBotz wiki
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+Bem-vindos à enciclopédia colaborativa da UERJBotz.
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
-
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
-
-To report an issue, please use the [git-wiki-theme issues](https://github.com/Drassil/git-wiki-theme/issues)
+Este projeto está na sua infância, e é baseado no projeto [git-wiki](https://github.com/Drassil/git-wiki-theme).
+Segue a descrição original inalterada do projeto e suas partes.
 
 ## The git-wiki project
 
