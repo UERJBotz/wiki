@@ -2,7 +2,7 @@
 
 Bem-vindos à enciclopédia colaborativa da UERJBotz.
 
-Este projeto está na sua infância, e é baseado no projeto [git-wiki](https://github.com/Drassil/git-wiki-theme).
+Ela está na sua infância, e é baseada no projeto [git-wiki](https://github.com/Drassil/git-wiki-theme).
 Segue a descrição original inalterada do projeto e suas partes.
 
 ## The git-wiki project
