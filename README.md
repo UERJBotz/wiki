@@ -1,6 +1,7 @@
 # UERJBotz wiki
 
 Bem-vindos à enciclopédia colaborativa da UERJBotz.
+Para começar, vá ao [Exemplo Inicial](Exemplo_Inicial).
 
 Ela está na sua infância, e é baseada no projeto [git-wiki](https://github.com/Drassil/git-wiki-theme).
 Segue a descrição original inalterada do projeto e suas partes.
