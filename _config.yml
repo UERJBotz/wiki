@@ -2,9 +2,9 @@ remote_theme: UERJBotz/git-wiki@master
 # (string) Title of your wiki
 title: "UERJBotz wiki"
 # (string) Description of your wiki
-description: "[preencher]"
+description: "Enciclopédia colaborativa da UERJBotz, para registrar e concentrar informações sobre os robôs, componentes, materiais e técnicas que criamos e/ou utilizamos, além das categorias em que participamos."
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: "[preencher]"
+logo_url: "https://avatars.githubusercontent.com/u/97710897"
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 
